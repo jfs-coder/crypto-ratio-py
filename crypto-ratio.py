@@ -15,9 +15,9 @@ ETHUSD = get_price('ethusd')
 DOTUSD = get_price('dotusd')
 ADAUSD = get_price('adausd')
 IOTUSD = get_price('iotusd')
-DOGUSD = get_price('mdogeusd')
+LTCUSD = get_price('ltcusd')
 
-print(f'\nETHUSD: {ETHUSD}\nDOTUSD: {DOTUSD}\nADAUSD: {ADAUSD}\nIOTUSD: {IOTUSD}\nDOGEUSD: {DOGUSD}\n')
+print(f'\nETHUSD: {ETHUSD}\nDOTUSD: {DOTUSD}\nADAUSD: {ADAUSD}\nIOTUSD: {IOTUSD}\nLTCUSD: {LTCUSD}\n')
 
 # here we will create all the ratios
 
